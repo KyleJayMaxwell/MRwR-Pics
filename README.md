@@ -1,5 +1,7 @@
 # MRwR-Pics
 
+User will type in term into search input that hits unsplash api. After that the app will render ten photos on the page with some styling. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
